@@ -1,2 +1,2 @@
 # bluebot
-A functional chatbot.
+A functional chatbot that uses Google API.
